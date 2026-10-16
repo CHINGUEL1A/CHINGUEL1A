@@ -22,7 +22,7 @@
 <picture><img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px"></picture>
 
 - 🚀 **Role:** Passionate Self-taught Front-end Developer
-- 🎓 **Education:** Computer Science Student & Tech Enthusiast
+- 🎓 **Education:** Systems Engineering student and technology enthusiast
 - 📚 **Focus:** Currently expanding skills in Web & Software Development
 - 🌐 **Portfolio:** [Visit My Website](https://tu-sitio-web.com) *(Reemplaza con tu enlace si lo tienes)*
 - 💼 **Status:** Open for new opportunities, projects, and internships!
